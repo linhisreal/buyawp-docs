@@ -27,7 +27,6 @@ AWP.GG is a powerful tool designed to enhance your gaming experience.
 
 {% hint style="info" %}
 * Windows 10/11 (64-bit)
-* 4GB RAM minimum
 * 15.7 MB required disk space (might changed in future)
 * Internet connection
 {% endhint %}

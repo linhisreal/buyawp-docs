@@ -35,7 +35,7 @@ flowchart LR
 
 ### Manual Configuration Steps
 
-{% embed url="<https://www.youtube.com/watch?v=UKu6qtc534A>" %}
+{% embed url=<https://www.youtube.com/watch?v=UKu6qtc534A> %}
 Step-by-step video guide
 {% endembed %}
 {% endtab %}

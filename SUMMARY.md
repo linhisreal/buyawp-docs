@@ -5,8 +5,8 @@
 ## Getting Started
 
 * [Prerequisites](getting-started/prerequisites.md)
-* [Security Setup](getting-started/antivirus.md)
-* [Installation Guide](getting-started/installation.md)
+* [Security Setup](getting-started/security-setup.md)
+* [Installation Guide](getting-started/installation-guide.md)
 
 ## Additional Resources
 

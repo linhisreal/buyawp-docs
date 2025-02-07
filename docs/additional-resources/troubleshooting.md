@@ -1,6 +1,7 @@
 ---
-description: Troubleshooting common issues with AWP.GG.
-last_updated: 2025-02-07 13:33:00
+description: Troubleshooting common issues with AWP.GG
+layout: default
+date: 2025-02-07 15:28:05
 author: linhisreal
 ---
 
@@ -8,49 +9,169 @@ author: linhisreal
 
 ## Common Issues
 
-### 1. Installation Errors
+{% tabs %}
+{% tab title="Installation Issues" %}
+### Installation Errors
 
 #### Error: "Installation failed due to missing prerequisites"
 
-**Solution:**
-1. Ensure that you have installed all the required software listed in the [Prerequisites](prerequisites.md) section.
-2. Verify that your system meets the compatibility requirements.
+{% hint style="warning" %}
+**Follow these steps:**
+1. Check [Prerequisites](../getting-started/prerequisites.md) are installed
+2. Verify system compatibility
+3. Run installer as administrator
+{% endhint %}
 
-### 2. License Activation Issues
+#### Error: "Access Denied During Installation"
+
+{% hint style="info" %}
+**Quick Fix:**
+1. Right-click installer
+2. Select "Run as administrator"
+3. Try installation again
+{% endhint %}
+{% endtab %}
+
+{% tab title="License Issues" %}
+### License Activation Problems
 
 #### Error: "Invalid license key"
 
-**Solution:**
-1. Double-check the license key you entered.
-2. Ensure that the key has not expired or been used previously.
-3. Contact support if the issue persists.
+{% hint style="danger" %}
+**Verification Steps:**
+1. Double-check license key format
+2. Verify key hasn't expired
+3. Ensure key isn't already in use
+{% endhint %}
 
-### 3. Software Crashes
+#### Error: "License Server Unavailable"
+
+{% hint style="info" %}
+**Resolution Steps:**
+1. Check internet connection
+2. Disable VPN if active
+3. Wait 5 minutes and retry
+{% endhint %}
+{% endtab %}
+
+{% tab title="Software Issues" %}
+### Software Crashes
 
 #### Issue: "AWP.GG crashes on startup"
 
-**Solution:**
-1. Ensure that all antivirus software is disabled or configured correctly as described in the [Security Setup](antivirus.md) section.
-2. Verify that you have the latest version of AWP.GG installed.
-3. Check for any Windows updates that might be pending and install them.
+{% hint style="warning" %}
+**Follow these steps:**
+1. Check [Security Setup](../getting-started/security-setup.md)
+2. Update to latest version
+3. Install pending Windows updates
+{% endhint %}
 
-## Contacting Support
+#### Issue: "Performance Problems"
 
-If you cannot resolve your issue using this guide, please contact our support team for further assistance.
+{% hint style="info" %}
+**Optimization Steps:**
+1. Close unnecessary applications
+2. Update graphics drivers
+3. Check system resources
+{% endhint %}
+{% endtab %}
+{% endtabs %}
 
-| Support Channel | Description |
-|-----------------|-------------|
-| [Discord Support](https://discord.gg/buyawp) | Get real-time help from our community and support team. |
-| [Official Discord](https://discord.gg/awpgg) | Join our official Discord server for updates and announcements. |
+## 🎮 Game-Specific Issues
 
+{% tabs %}
+{% tab title="ROBLOX Issues" %}
+### ROBLOX Integration Problems
 
-## Additional Resources
+1. **Game Not Detected**
+   * Close ROBLOX completely
+   * Restart AWP.GG as administrator
+   * Launch ROBLOX through AWP.GG
 
-- [FAQ](faq.md)
-- [Installation Guide](installation.md)
-- [Security Setup](antivirus.md)
-- [Prerequisites](prerequisites.md)
+2. **Script Execution Errors**
+   * Verify antivirus is disabled
+   * Check Windows Defender settings
+   * Ensure proper permissions
+{% endtab %}
 
-<div class="custom-block tip">
-  <p>Always ensure that your software is up-to-date to avoid common issues.</p>
-</div>
+{% tab title="Connection Issues" %}
+### Connection Problems
+
+1. **Server Connection Lost**
+   * Check internet connection
+   * Disable VPN/Proxy
+   * Verify firewall settings
+
+2. **High Latency**
+   * Close background applications
+   * Check internet speed
+   * Try different server region
+{% endtab %}
+{% endtabs %}
+
+## 📞 Support Channels
+
+{% tabs %}
+{% tab title="Discord Support" %}
+### Discord Communities
+
+| Channel | Purpose | Link |
+|---------|---------|------|
+| Support Server | Direct assistance | [Join Support](https://discord.gg/buyawp) |
+| Official Server | Updates & news | [Join Official](https://discord.gg/awpgg) |
+{% endtab %}
+
+{% tab title="Additional Help" %}
+### Other Resources
+
+- [📚 Documentation](../getting-started/installation.md)
+- [❓ FAQ](faq.md)
+- [🔧 Setup Guide](../getting-started/prerequisites.md)
+{% endtab %}
+{% endtabs %}
+
+{% hint style="success" %}
+Still need help? Our support team is available 24/7 on Discord!
+{% endhint %}
+
+## 🔄 Quick Fixes
+
+### Common Solutions Checklist
+
+{% hint style="info" %}
+Try these steps before contacting support:
+
+1. ✅ Restart AWP.GG and ROBLOX
+2. ✅ Check for software updates
+3. ✅ Verify security settings
+4. ✅ Run as administrator
+5. ✅ Clear cache files
+{% endhint %}
+
+### System Requirements Verification
+
+```mermaid
+graph TD
+    A[Check System] -->|Verify| B[Requirements]
+    B --> C{Meet Specs?}
+    C -->|Yes| D[Proceed]
+    C -->|No| E[Upgrade System]
+    E --> B
+```
+
+## 📈 Performance Optimization
+
+### Recommended Settings
+
+{% hint style="tip" %}
+Optimize your experience:
+
+* Keep AWP.GG and ROBLOX updated
+* Close unnecessary background apps
+* Regular system maintenance
+* Monitor resource usage
+{% endhint %}
+
+{% hint style="warning" %}
+Remember to save your settings before making any changes!
+{% endhint %}

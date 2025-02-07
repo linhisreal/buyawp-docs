@@ -1,11 +1,11 @@
 ---
-description: AWP.GG version history and updates
-layout: default
-date: 2025-02-07 14:43:44
+date: 2025-02-07T14:43:44.000Z
 author: linhisreal
+description: AWP.GG version history and updates
+icon: bookmark
 ---
 
-# 📝 Change Log
+# Change Log
 
 {% hint style="info" %}
 This section is under construction. Check back soon for updates!

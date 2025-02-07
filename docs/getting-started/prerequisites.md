@@ -1,25 +1,24 @@
 ---
-description: Essential system requirements and preparation steps for AWP.GG installation
-layout: default
-date: 2025-02-07 14:43:44
+date: 2025-02-07T14:43:44.000Z
 author: linhisreal
+description: Essential system requirements and preparation steps for AWP.GG installation
+icon: award
 ---
 
-# 📋 Prerequisites
+# Prerequisites
 
 ## 💻 System Requirements
 
 {% tabs %}
 {% tab title="Windows Requirements" %}
-
-### Required Specifications
+#### Required Specifications
 
 * Windows 10/11 64-bit
 * Administrative Account
 * Space Required: 15.7 MB (might changed in future)
 * Active Internet Connection
 
-### Checking System Type
+#### Checking System Type
 
 1. Press `Windows + R`
 2. Type `msinfo32` and press Enter
@@ -28,7 +27,6 @@ author: linhisreal
 {% endtab %}
 
 {% tab title="Account Requirements" %}
-
 ```mermaid
 graph TD
     A[Check Account] -->|Not Admin| B[Get Admin Rights]
@@ -38,6 +36,8 @@ graph TD
     A -->|Is Admin| F[Continue Setup]
 ```
 
+
+{% endtab %}
 {% endtabs %}
 
 ## 📥 Required Software
@@ -46,16 +46,13 @@ graph TD
 
 {% tabs %}
 {% tab title="Download Links" %}
-
-| Version | Link | Status |
-|---------|------|--------|
-| x64 | [Download VC_Redist x64](https://aka.ms/vs/17/release/vc_redist.x64.exe) | Required |
-| x86 | [Download VC_Redist x86](https://aka.ms/vs/17/release/vc_redist.x86.exe) | Required |
-
+| Version | Link                                                                      | Status   |
+| ------- | ------------------------------------------------------------------------- | -------- |
+| x64     | [Download VC\_Redist x64](https://aka.ms/vs/17/release/vc_redist.x64.exe) | Required |
+| x86     | [Download VC\_Redist x86](https://aka.ms/vs/17/release/vc_redist.x86.exe) | Required |
 {% endtab %}
 
 {% tab title="Installation Steps" %}
-
 1. Download both x64 and x86 versions
 2. Run each installer as administrator
 3. Follow the installation prompts
@@ -75,7 +72,6 @@ A clean ROBLOX installation is required for optimal performance!
    * Use Revo Uninstaller Pro
    * Remove ALL registry entries
    * Delete related folders
-
 2. **Fresh Installation:**
    * Download latest ROBLOX
    * Run as administrator

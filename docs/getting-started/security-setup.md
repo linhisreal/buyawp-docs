@@ -1,25 +1,23 @@
 ---
-description: Configure your system's security settings for AWP.GG
-layout: default
-date: 2025-02-07 14:43:44
+date: 2025-02-07T14:43:44.000Z
 author: linhisreal
+description: Configure your system's security settings for AWP.GG
+icon: shield-halved
 ---
 
-# 🛡️ Security Setup
+# Security Setup
 
 ## ⚠️ Security Notice
 
 {% hint style="danger" %}
-Your antivirus software must be temporarily disabled for AWP.GG to function properly.
-This is required for the installation process only.
+Your antivirus software must be temporarily disabled for AWP.GG to function properly. This is required for the installation process only.
 {% endhint %}
 
 ## 🔒 Windows Defender
 
 {% tabs %}
 {% tab title="Automatic Method" %}
-
-### Using Defender Control
+#### Using Defender Control
 
 ```mermaid
 flowchart LR
@@ -32,8 +30,7 @@ flowchart LR
 {% endtab %}
 
 {% tab title="Manual Method" %}
-
-### Manual Configuration Steps
+#### Manual Configuration Steps
 
 {% embed url="https://www.youtube.com/watch?v=UKu6qtc534A" %}
 Step-by-step video guide
@@ -48,15 +45,14 @@ Step-by-step video guide
 1. **Firewall Settings**
 
 {% hint style="info" %}
-
 * Open Windows Security
 * Navigate to "Firewall & Network Protection"
 * Disable all protection features
 {% endhint %}
 
 1. **Browser Protection**
-{% hint style="info" %}
 
+{% hint style="info" %}
 * Access "App & Browser Control"
 * Open "Reputation-based protection settings"
 * Disable all features

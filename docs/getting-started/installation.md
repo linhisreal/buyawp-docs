@@ -1,18 +1,17 @@
 ---
-description: Complete installation guide for AWP.GG
-layout: default
-date: 2025-02-07 14:43:44
+date: 2025-02-07T14:43:44.000Z
 author: linhisreal
+description: Complete installation guide for AWP.GG
+icon: down-from-line
 ---
 
-# 📦 Installation Guide
+# Installation Guide
 
 ## 🔑 License Activation
 
 {% tabs %}
 {% tab title="New Users" %}
-
-### Registration Process
+#### Registration Process
 
 ```mermaid
 sequenceDiagram
@@ -24,12 +23,10 @@ sequenceDiagram
     User->>Bot: Complete registration
     System->>User: Account created
 ```
-
 {% endtab %}
 
 {% tab title="Existing Users" %}
-
-### License Claims
+#### License Claims
 
 * Use `/claim` to activate license
 * New duration adds to existing time
@@ -42,7 +39,6 @@ sequenceDiagram
 ### Download Steps
 
 {% hint style="warning" %}
-
 1. Execute `/download` command
 2. Wait for DM with download link
 3. Download within 5 minutes
@@ -54,7 +50,6 @@ sequenceDiagram
 
 {% tabs %}
 {% tab title="Pre-Install" %}
-
 * ✅ ROBLOX fully closed
 * ✅ Prerequisites installed
 * ✅ Antivirus disabled
@@ -62,7 +57,6 @@ sequenceDiagram
 {% endtab %}
 
 {% tab title="Installation" %}
-
 1. Run installer as admin
 2. Follow setup wizard
 3. Configure settings

@@ -9,6 +9,6 @@
 
 ## 📚 Additional Resources
 
-* [FAQ](docs/additional-resources/faq.md)
-* [Troubleshooting](docs/additional-resources/troubleshooting.md)
+* [❓ FAQ](docs/additional-resources/faq.md)
+* [🔧 Troubleshooting](docs/additional-resources/troubleshooting.md)
 * [Change Log](docs/additional-resources/changelog.md)

@@ -1,20 +1,18 @@
 ---
-description: Troubleshooting common issues with AWP.GG
-layout: default
-date: 2025-02-07 15:28:05
+date: 2025-02-07T15:28:05.000Z
 author: linhisreal
+description: Troubleshooting common issues with AWP.GG
 ---
 
-# 🛠️ Troubleshooting Guide
+# 🔧 Troubleshooting
 
 ## Common Issues
 
 {% tabs %}
 {% tab title="Installation Issues" %}
+#### Installation Errors
 
-### Installation Errors
-
-#### Error: "Installation failed due to missing prerequisites"
+**Error: "Installation failed due to missing prerequisites"**
 
 {% hint style="warning" %}
 **Follow these steps:**
@@ -24,7 +22,7 @@ author: linhisreal
 3. Run installer as administrator
 {% endhint %}
 
-#### Error: "Access Denied During Installation"
+**Error: "Access Denied During Installation"**
 
 {% hint style="info" %}
 **Quick Fix:**
@@ -36,10 +34,9 @@ author: linhisreal
 {% endtab %}
 
 {% tab title="License Issues" %}
+#### License Activation Problems
 
-### License Activation Problems
-
-#### Error: "Invalid license key"
+**Error: "Invalid license key"**
 
 {% hint style="danger" %}
 **Verification Steps:**
@@ -49,7 +46,7 @@ author: linhisreal
 3. Ensure key isn't already in use
 {% endhint %}
 
-#### Error: "License Server Unavailable"
+**Error: "License Server Unavailable"**
 
 {% hint style="info" %}
 **Resolution Steps:**
@@ -61,10 +58,9 @@ author: linhisreal
 {% endtab %}
 
 {% tab title="Software Issues" %}
+#### Software Crashes
 
-### Software Crashes
-
-#### Issue: "AWP.GG crashes on startup"
+**Issue: "AWP.GG crashes on startup"**
 
 {% hint style="warning" %}
 **Follow these steps:**
@@ -74,7 +70,7 @@ author: linhisreal
 3. Install pending Windows updates
 {% endhint %}
 
-#### Issue: "Performance Problems"
+**Issue: "Performance Problems"**
 
 {% hint style="info" %}
 **Optimization Steps:**
@@ -90,14 +86,12 @@ author: linhisreal
 
 {% tabs %}
 {% tab title="ROBLOX Issues" %}
-
-### ROBLOX Integration Problems
+#### ROBLOX Integration Problems
 
 1. **Game Not Detected**
    * Close ROBLOX completely
    * Restart AWP.GG as administrator
    * Launch ROBLOX through AWP.GG
-
 2. **Script Execution Errors**
    * Verify antivirus is disabled
    * Check Windows Defender settings
@@ -105,14 +99,12 @@ author: linhisreal
 {% endtab %}
 
 {% tab title="Connection Issues" %}
-
-### Connection Problems
+#### Connection Problems
 
 1. **Server Connection Lost**
    * Check internet connection
    * Disable VPN/Proxy
    * Verify firewall settings
-
 2. **High Latency**
    * Close background applications
    * Check internet speed
@@ -124,19 +116,16 @@ author: linhisreal
 
 {% tabs %}
 {% tab title="Discord Support" %}
+#### Discord Communities
 
-### Discord Communities
-
-| Channel | Purpose | Link |
-|---------|---------|------|
-| Support Server | Direct assistance | [Join Support](https://discord.gg/buyawp) |
-| Official Server | Updates & news | [Join Official](https://discord.gg/awpgg) |
-
+| Channel         | Purpose           | Link                                      |
+| --------------- | ----------------- | ----------------------------------------- |
+| Support Server  | Direct assistance | [Join Support](https://discord.gg/buyawp) |
+| Official Server | Updates & news    | [Join Official](https://discord.gg/awpgg) |
 {% endtab %}
 
 {% tab title="Additional Help" %}
-
-### Other Resources
+#### Other Resources
 
 * [📚 Documentation](../getting-started/installation.md)
 * [❓ FAQ](faq.md)
@@ -177,7 +166,7 @@ graph TD
 
 ### Recommended Settings
 
-{% hint style="tip" %}
+{% hint style="info" %}
 Optimize your experience:
 
 * Keep AWP.GG and ROBLOX updated

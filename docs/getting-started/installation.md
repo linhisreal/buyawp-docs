@@ -11,6 +11,7 @@ author: linhisreal
 
 {% tabs %}
 {% tab title="New Users" %}
+
 ### Registration Process
 
 ```mermaid
@@ -23,10 +24,13 @@ sequenceDiagram
     User->>Bot: Complete registration
     System->>User: Account created
 ```
+
 {% endtab %}
 
 {% tab title="Existing Users" %}
+
 ### License Claims
+
 * Use `/claim` to activate license
 * New duration adds to existing time
 * One license per user
@@ -38,6 +42,7 @@ sequenceDiagram
 ### Download Steps
 
 {% hint style="warning" %}
+
 1. Execute `/download` command
 2. Wait for DM with download link
 3. Download within 5 minutes
@@ -49,6 +54,7 @@ sequenceDiagram
 
 {% tabs %}
 {% tab title="Pre-Install" %}
+
 * ✅ ROBLOX fully closed
 * ✅ Prerequisites installed
 * ✅ Antivirus disabled
@@ -56,6 +62,7 @@ sequenceDiagram
 {% endtab %}
 
 {% tab title="Installation" %}
+
 1. Run installer as admin
 2. Follow setup wizard
 3. Configure settings
@@ -82,6 +89,7 @@ graph TD
 
 {% hint style="info" %}
 To remove AWP.GG:
+
 1. Open UI
 2. Go to Scripting > Settings
 3. Click "Remove AWP"

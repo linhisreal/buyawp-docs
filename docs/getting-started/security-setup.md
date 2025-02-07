@@ -18,6 +18,7 @@ This is required for the installation process only.
 
 {% tabs %}
 {% tab title="Automatic Method" %}
+
 ### Using Defender Control
 
 ```mermaid
@@ -31,9 +32,10 @@ flowchart LR
 {% endtab %}
 
 {% tab title="Manual Method" %}
+
 ### Manual Configuration Steps
 
-{% embed url="https://www.youtube.com/watch?v=UKu6qtc534A" %}
+{% embed url="<https://www.youtube.com/watch?v=UKu6qtc534A>" %}
 Step-by-step video guide
 {% endembed %}
 {% endtab %}
@@ -44,14 +46,17 @@ Step-by-step video guide
 ### Windows Security Configuration
 
 1. **Firewall Settings**
+
 {% hint style="info" %}
+
 * Open Windows Security
 * Navigate to "Firewall & Network Protection"
 * Disable all protection features
 {% endhint %}
 
-2. **Browser Protection**
+1. **Browser Protection**
 {% hint style="info" %}
+
 * Access "App & Browser Control"
 * Open "Reputation-based protection settings"
 * Disable all features

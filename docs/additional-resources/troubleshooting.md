@@ -11,12 +11,14 @@ author: linhisreal
 
 {% tabs %}
 {% tab title="Installation Issues" %}
+
 ### Installation Errors
 
 #### Error: "Installation failed due to missing prerequisites"
 
 {% hint style="warning" %}
 **Follow these steps:**
+
 1. Check [Prerequisites](../getting-started/prerequisites.md) are installed
 2. Verify system compatibility
 3. Run installer as administrator
@@ -26,6 +28,7 @@ author: linhisreal
 
 {% hint style="info" %}
 **Quick Fix:**
+
 1. Right-click installer
 2. Select "Run as administrator"
 3. Try installation again
@@ -33,12 +36,14 @@ author: linhisreal
 {% endtab %}
 
 {% tab title="License Issues" %}
+
 ### License Activation Problems
 
 #### Error: "Invalid license key"
 
 {% hint style="danger" %}
 **Verification Steps:**
+
 1. Double-check license key format
 2. Verify key hasn't expired
 3. Ensure key isn't already in use
@@ -48,6 +53,7 @@ author: linhisreal
 
 {% hint style="info" %}
 **Resolution Steps:**
+
 1. Check internet connection
 2. Disable VPN if active
 3. Wait 5 minutes and retry
@@ -55,12 +61,14 @@ author: linhisreal
 {% endtab %}
 
 {% tab title="Software Issues" %}
+
 ### Software Crashes
 
 #### Issue: "AWP.GG crashes on startup"
 
 {% hint style="warning" %}
 **Follow these steps:**
+
 1. Check [Security Setup](../getting-started/security-setup.md)
 2. Update to latest version
 3. Install pending Windows updates
@@ -70,6 +78,7 @@ author: linhisreal
 
 {% hint style="info" %}
 **Optimization Steps:**
+
 1. Close unnecessary applications
 2. Update graphics drivers
 3. Check system resources
@@ -81,6 +90,7 @@ author: linhisreal
 
 {% tabs %}
 {% tab title="ROBLOX Issues" %}
+
 ### ROBLOX Integration Problems
 
 1. **Game Not Detected**
@@ -95,6 +105,7 @@ author: linhisreal
 {% endtab %}
 
 {% tab title="Connection Issues" %}
+
 ### Connection Problems
 
 1. **Server Connection Lost**
@@ -113,20 +124,23 @@ author: linhisreal
 
 {% tabs %}
 {% tab title="Discord Support" %}
+
 ### Discord Communities
 
 | Channel | Purpose | Link |
 |---------|---------|------|
 | Support Server | Direct assistance | [Join Support](https://discord.gg/buyawp) |
 | Official Server | Updates & news | [Join Official](https://discord.gg/awpgg) |
+
 {% endtab %}
 
 {% tab title="Additional Help" %}
+
 ### Other Resources
 
-- [📚 Documentation](../getting-started/installation.md)
-- [❓ FAQ](faq.md)
-- [🔧 Setup Guide](../getting-started/prerequisites.md)
+* [📚 Documentation](../getting-started/installation.md)
+* [❓ FAQ](faq.md)
+* [🔧 Setup Guide](../getting-started/prerequisites.md)
 {% endtab %}
 {% endtabs %}
 

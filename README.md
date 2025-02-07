@@ -18,12 +18,14 @@ author: linhisreal
 
 {% tabs %}
 {% tab title="Getting Started" %}
+
 * [📋 Prerequisites](docs/getting-started/prerequisites.md)
 * [🛡️ Security Setup](docs/getting-started/security-setup.md)
 * [📦 Installation](docs/getting-started/installation.md)
 {% endtab %}
 
 {% tab title="Support" %}
+
 * [❓ FAQ](docs/additional-resources/faq.md)
 * [🔧 Troubleshooting](docs/additional-resources/troubleshooting.md)
 * [💬 Discord Support](https://discord.gg/awp)
@@ -32,7 +34,7 @@ author: linhisreal
 
 ## 📺 Video Tutorial
 
-{% embed url="https://youtu.be/lnisV_AkAts" %}
+{% embed url="<https://youtu.be/lnisV_AkAts>" %}
 Complete AWP.GG Setup Guide
 {% endembed %}
 
@@ -54,7 +56,7 @@ Before proceeding with the installation, ensure your system meets these requirem
    * [Security Setup](docs/getting-started/security-setup.md) - Antivirus and Windows security configuration
    * [Installation Guide](docs/getting-started/installation.md) - Step-by-step installation process
 
-2. **Additional Resources**
+1. **Additional Resources**
    * [FAQ](docs/additional-resources/faq.md) - Common questions and answers
    * [Troubleshooting](docs/additional-resources/troubleshooting.md) - Solutions to common issues
    * [Change Log](docs/additional-resources/changelog.md) - Version history and updates

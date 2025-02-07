@@ -11,13 +11,16 @@ author: linhisreal
 
 {% tabs %}
 {% tab title="Windows Requirements" %}
+
 ### Required Specifications
+
 * Windows 10/11 64-bit
 * Administrative Account
 * Space Required: 15.7 MB (might changed in future)
 * Active Internet Connection
 
 ### Checking System Type
+
 1. Press `Windows + R`
 2. Type `msinfo32` and press Enter
 3. Look for "System Type"
@@ -36,13 +39,16 @@ author: linhisreal
 
 {% tabs %}
 {% tab title="Download Links" %}
+
 | Version | Link | Status |
 |---------|------|--------|
 | x64 | [Download VC_Redist x64](https://aka.ms/vs/17/release/vc_redist.x64.exe) | Required |
 | x86 | [Download VC_Redist x86](https://aka.ms/vs/17/release/vc_redist.x86.exe) | Required |
+
 {% endtab %}
 
 {% tab title="Installation Steps" %}
+
 1. Download both x64 and x86 versions
 2. Run each installer as administrator
 3. Follow the installation prompts

@@ -6,7 +6,7 @@ description: Frequently Asked Questions about AWP.GG
 
 # ❓ FAQ
 
-## General Questions
+## ❗ General Questions
 
 {% tabs %}
 {% tab title="About AWP.GG" %}
@@ -38,7 +38,7 @@ See our [Troubleshooting Guide](troubleshooting.md)
 {% endtab %}
 {% endtabs %}
 
-## Licensing
+## 📃 Licensing
 
 {% tabs %}
 {% tab title="License Types" %}
@@ -58,7 +58,7 @@ See our [Troubleshooting Guide](troubleshooting.md)
 {% endtab %}
 {% endtabs %}
 
-## Support
+## 📞 Support
 
 {% hint style="info" %}
 #### Need Help?

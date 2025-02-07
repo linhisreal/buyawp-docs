@@ -6,7 +6,7 @@ description: Troubleshooting common issues with AWP.GG
 
 # 🔧 Troubleshooting
 
-## Common Issues
+## ❗ Common Issues
 
 {% tabs %}
 {% tab title="Installation Issues" %}
@@ -118,7 +118,7 @@ description: Troubleshooting common issues with AWP.GG
 {% tab title="Discord Support" %}
 #### Discord Communities
 
-| Channel         | Purpose           | Link                                      |
+| Server          | Purpose           | Link                                      |
 | --------------- | ----------------- | ----------------------------------------- |
 | Support Server  | Direct assistance | [Join Support](https://discord.gg/buyawp) |
 | Official Server | Updates & news    | [Join Official](https://discord.gg/awpgg) |

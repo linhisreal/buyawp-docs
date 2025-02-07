@@ -34,7 +34,7 @@ author: linhisreal
 
 ## 📺 Video Tutorial
 
-{% embed url="<https://youtu.be/lnisV_AkAts>" %}
+{% embed url="https://youtu.be/lnisV_AkAts" %}
 Complete AWP.GG Setup Guide
 {% endembed %}
 

@@ -1,0 +1,13 @@
+root: ./
+
+structure:
+  readme: README.md
+  summary: SUMMARY.md
+
+redirects:
+  prerequisites: getting-started/prerequisites.md
+  antivirus: getting-started/antivirus.md
+  installation: getting-started/installation.md
+  faq: support/faq.md
+  troubleshooting: support/troubleshooting.md
+  changelog: support/changelog.md

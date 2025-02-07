@@ -63,7 +63,7 @@ sequenceDiagram
 
 ### Launch Sequence
 
-"""mermaid
+```mermaid
 graph TD
     A[Launch UI] -->B[Login]
     B -->C[Click Launch Icon]
@@ -72,7 +72,7 @@ graph TD
     E -->F[Fix Channel]
     F -->C
     C -->|Success| G[Ready to Use]
-"""
+```
 
 ## 🗑️ Uninstallation
 

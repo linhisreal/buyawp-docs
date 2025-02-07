@@ -40,7 +40,8 @@ If you cannot resolve your issue using this guide, please contact our support te
 
 | Support Channel | Description |
 |-----------------|-------------|
-| [Discord Support](https://discord.gg/awp) | Get real-time help from our community and support team. |
+| [Discord Support](https://discord.gg/buyawp) | Get real-time help from our community and support team. |
+| [Official Discord](https://discord.gg/awpgg) | Join our official Discord server for updates and announcements. |
 
 
 ## Additional Resources

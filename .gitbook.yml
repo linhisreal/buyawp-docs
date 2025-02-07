@@ -5,9 +5,10 @@ structure:
   summary: SUMMARY.md
 
 redirects:
-  prerequisites: getting-started/prerequisites.md
-  antivirus: getting-started/antivirus.md
-  installation: getting-started/installation.md
-  faq: support/faq.md
-  troubleshooting: support/troubleshooting.md
-  changelog: support/changelog.md
+  docs/getting-started/security-setup: antivirus.md
+  getting-started/prerequisites: docs/getting-started/prerequisites.md
+  getting-started/security-setup: docs/getting-started/security-setup.md
+  getting-started/installation: docs/getting-started/installation.md
+  additional-resources/faq: docs/additional-resources/faq.md
+  additional-resources/troubleshooting: docs/additional-resources/troubleshooting.md
+  additional-resources/changelog: docs/additional-resources/changelog.md

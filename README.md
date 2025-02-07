@@ -1,6 +1,6 @@
 ---
 description: Welcome to the official AWP.GG documentation. Get started with your setup and installation.
-cover: assets/banner.png
+cover: .gitbook/assets/og-image.png
 coverY: 0
 layout: landing
 date: 2025-02-07 14:43:44

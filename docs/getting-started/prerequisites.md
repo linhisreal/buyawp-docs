@@ -36,7 +36,6 @@ graph TD
     C -->|Method 1| D[Request Admin Access]
     C -->|Method 2| E[Create Admin Account]
     A -->|Is Admin| F[Continue Setup]
-
 ```
 
 {% endtabs %}

@@ -67,7 +67,7 @@ sequenceDiagram
 
 ### Setup Process
 
-{ % mermaid % }}
+{ % mermaid % }
 graph TD
     A[Launch UI] -->B[Login]
     B -->C[Click Launch Icon]

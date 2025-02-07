@@ -76,7 +76,7 @@ graph TD
     E -->F[Fix Channel]
     F -->C
     C -->|Success| G[Ready to Use]
-```
+``
 
 ## 🗑️ Uninstallation
 

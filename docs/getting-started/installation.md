@@ -13,7 +13,7 @@ author: linhisreal
 {% tab title="New Users" %}
 ### Registration Process
 
-```mermaid
+{ % mermaid % }
 sequenceDiagram
     participant User
     participant Bot
@@ -22,7 +22,7 @@ sequenceDiagram
     Bot->>User: Send DM with instructions
     User->>Bot: Complete registration
     System->>User: Account created
-```
+{% endmermaid %}
 {% endtab %}
 
 {% tab title="Existing Users" %}

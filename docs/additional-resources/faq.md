@@ -63,7 +63,7 @@ See our [Troubleshooting Guide](troubleshooting.md)
 {% hint style="info" %}
 #### Need Help?
 
-* Join our [Discord Server](https://discord.gg/awp)
+* Join our [Discord Server](https://discord.gg/awpgg) or [Official Discord](https://discord.gg/awpgg)
 * Check [Troubleshooting Guide](troubleshooting.md)
 * Read [Installation Guide](../getting-started/installation.md)
 {% endhint %}

@@ -10,20 +10,22 @@ description: Frequently Asked Questions about AWP.GG
 
 {% tabs %}
 {% tab title="About AWP.GG" %}
-#### What is AWP.GG?
+**What is AWP.GG?**
 
 AWP.GG is a powerful tool designed to enhance your gaming experience.
 
-#### Why choose AWP.GG?
+**Why choose AWP.GG?**
 
 * High performance
-* Regular updates
+* 100% UNC & sUNC
 * Active support
 * User-friendly interface
+* Built-in HWID Spoofer
+* **Emulating Hyperion**
 {% endtab %}
 
 {% tab title="Installation" %}
-#### System Requirements
+**System Requirements**
 
 {% hint style="info" %}
 * Windows 10/11 (64-bit)
@@ -31,7 +33,7 @@ AWP.GG is a powerful tool designed to enhance your gaming experience.
 * Internet connection
 {% endhint %}
 
-#### Installation Issues
+**Installation Issues**
 
 See our [Troubleshooting Guide](troubleshooting.md)
 {% endtab %}
@@ -41,7 +43,7 @@ See our [Troubleshooting Guide](troubleshooting.md)
 
 {% tabs %}
 {% tab title="License Types" %}
-#### Available Licenses
+**Available Licenses**
 
 * Weekly Subscription
 * Monthly Subscription
@@ -49,7 +51,7 @@ See our [Troubleshooting Guide](troubleshooting.md)
 {% endtab %}
 
 {% tab title="Activation" %}
-#### How to Activate
+**How to Activate**
 
 1. Join our [Discord](https://discord.gg/buyawp) or [Official Discord](https://discord.gg/awpgg)
 2. Use `/claim` command
@@ -60,10 +62,9 @@ See our [Troubleshooting Guide](troubleshooting.md)
 ## 📞 Support
 
 {% hint style="info" %}
-#### Need Help?
+**Need Help?**
 
 * Join our [Discord Server](https://discord.gg/awpgg) or [Official Discord](https://discord.gg/awpgg)
 * Check [Troubleshooting Guide](troubleshooting.md)
 * Read [Installation Guide](../getting-started/installation.md)
 {% endhint %}
-

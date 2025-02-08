@@ -20,9 +20,9 @@ This issue is commonly related to Windows Defender blocking necessary files.
 #### Solution Steps:
 
 1. **Add Required Exclusions:**
-   """plaintext
+   ```plaintext
    %localappdata%\Roblox\
-   """
+   ```
 
 2. **Configure Windows Defender:**
    * Open Windows Start menu
@@ -41,10 +41,10 @@ This occurs when Windows security prevents proper updates.
 {% endhint %}
 
 #### Required Exclusions:
-"""plaintext
+```plaintext
 %localappdata%\Roblox\
 AppData\Local\ui
-"""
+```
 
 #### Resolution Steps:
 1. Type `/guide` in ⁠👾┃cmds channel
@@ -163,11 +163,11 @@ AppData\Local\ui
 {% tabs %}
 {% tab title="File Locations" %}
 ### Important Directories
-"""plaintext
+```plaintext
 Main Application: %localappdata%\ui
 ROBLOX Files: %localappdata%\Roblox\
 Temporary Files: %temp%
-"""
+```
 {% endtab %}
 
 {% tab title="Commands" %}
@@ -175,7 +175,6 @@ Temporary Files: %temp%
 * `/guide` - View complete setup guide
 * `/download` - Get latest version
 * `/claim` - Activate license
-* `/support` - Get help
 {% endtab %}
 {% endtabs %}
 

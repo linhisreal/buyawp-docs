@@ -1,7 +1,8 @@
 ---
-date: 2025-02-07T15:28:05.000Z
-author: linhisreal
 description: Troubleshooting common issues with AWP.GG
+layout: default
+date: 2025-02-08 03:07:12
+author: linhisreal
 ---
 
 # 🔧 Troubleshooting
@@ -9,6 +10,49 @@ description: Troubleshooting common issues with AWP.GG
 ## ❗ Common Issues
 
 {% tabs %}
+{% tab title="Proxy & Launch Issues" %}
+### Error: "Failed to Launch Proxy"
+
+{% hint style="warning" %}
+This issue is commonly related to Windows Defender blocking necessary files.
+{% endhint %}
+
+#### Solution Steps:
+
+1. **Add Required Exclusions:**
+   """plaintext
+   %localappdata%\Roblox\
+   """
+
+2. **Configure Windows Defender:**
+   * Open Windows Start menu
+   * Search for "Windows Security"
+   * Click "Virus & threat protection"
+   * Select "Manage settings"
+   * Scroll to "Exclusions"
+   * Click "Add or remove exclusions"
+   * Choose "Add an exclusion" > "Folder"
+   * Add the path above
+
+### Error: "Client Not Up To Date"
+
+{% hint style="info" %}
+This occurs when Windows security prevents proper updates.
+{% endhint %}
+
+#### Required Exclusions:
+"""plaintext
+%localappdata%\Roblox\
+AppData\Local\ui
+"""
+
+#### Resolution Steps:
+1. Type `/guide` in ⁠👾┃cmds channel
+2. Follow the guide instructions
+3. Add both directories as exclusions
+4. Restart AWP.GG application
+{% endtab %}
+
 {% tab title="Installation Issues" %}
 #### Installation Errors
 
@@ -92,6 +136,7 @@ description: Troubleshooting common issues with AWP.GG
    * Close ROBLOX completely
    * Restart AWP.GG as administrator
    * Launch ROBLOX through AWP.GG
+
 2. **Script Execution Errors**
    * Verify antivirus is disabled
    * Check Windows Defender settings
@@ -105,10 +150,32 @@ description: Troubleshooting common issues with AWP.GG
    * Check internet connection
    * Disable VPN/Proxy
    * Verify firewall settings
+
 2. **High Latency**
    * Close background applications
    * Check internet speed
    * Try different server region
+{% endtab %}
+{% endtabs %}
+
+## Advanced Troubleshooting
+
+{% tabs %}
+{% tab title="File Locations" %}
+### Important Directories
+"""plaintext
+Main Application: %localappdata%\ui
+ROBLOX Files: %localappdata%\Roblox\
+Temporary Files: %temp%
+"""
+{% endtab %}
+
+{% tab title="Commands" %}
+### Useful Discord Commands
+* `/guide` - View complete setup guide
+* `/download` - Get latest version
+* `/claim` - Activate license
+* `/support` - Get help
 {% endtab %}
 {% endtabs %}
 
@@ -118,10 +185,10 @@ description: Troubleshooting common issues with AWP.GG
 {% tab title="Discord Support" %}
 #### Discord Communities
 
-| Server          | Purpose           | Link                                      |
-| --------------- | ----------------- | ----------------------------------------- |
-| Support Server  | Direct assistance | [Join Support](https://discord.gg/buyawp) |
-| Official Server | Updates & news    | [Join Official](https://discord.gg/awpgg) |
+| Server | Purpose | Link |
+|---------|---------|------|
+| Support Server | Direct assistance | [Join Support](https://discord.gg/buyawp) |
+| Official Server | Updates & news | [Join Official](https://discord.gg/awpgg) |
 {% endtab %}
 
 {% tab title="Additional Help" %}
@@ -132,10 +199,6 @@ description: Troubleshooting common issues with AWP.GG
 * [🔧 Setup Guide](../getting-started/prerequisites.md)
 {% endtab %}
 {% endtabs %}
-
-{% hint style="success" %}
-Still need help? Our support team is available 24/7 on Discord!
-{% endhint %}
 
 ## 🔄 Quick Fixes
 

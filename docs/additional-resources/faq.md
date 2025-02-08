@@ -47,7 +47,7 @@ See our [Troubleshooting Guide](troubleshooting.md)
 
 * Weekly Subscription
 * Monthly Subscription
-* Yearly Access
+
 {% endtab %}
 
 {% tab title="Activation" %}

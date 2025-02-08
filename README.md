@@ -13,7 +13,7 @@ layout: landing
 # Welcome to AWP.GG
 
 {% hint style="info" %}
-**Last Updated:** February 07, 2025 14:43:44 UTC\
+**Last Updated:** February 08, 2025 02:20:55 UTC\
 **Author:** [@linhisreal](https://github.com/linhisreal)
 {% endhint %}
 

@@ -3,7 +3,6 @@ root: ./
 structure:
   readme: README.md
   summary: SUMMARY.md
-  images: assets/banner.png
 
 redirects:
   docs/getting-started/security-setup: antivirus.md

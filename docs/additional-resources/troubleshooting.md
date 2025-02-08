@@ -47,7 +47,7 @@ AppData\Local\ui
 ```
 
 #### Resolution Steps:
-1. Type `/guide` in ⁠👾┃cmds channel
+1. Type `/guide` in ⁠commands channel
 2. Follow the guide instructions
 3. Add both directories as exclusions
 4. Restart AWP.GG application

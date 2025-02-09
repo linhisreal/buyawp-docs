@@ -50,7 +50,7 @@ author: linhisreal
 ## 💰 Payment Methods
 
 {% tabs %}
-{% tab title="Discord Purchase" %}
+{% tab title="Payment Methods" %}
 
 ### Reseller Payment Methods
 
@@ -65,9 +65,11 @@ Each verified reseller (@!) supports various payment methods:
 {% hint style="info" %}
 Payment methods vary by reseller. Use the navigation buttons to find a reseller that accepts your preferred payment method.
 {% endhint %}
+{% hint style="warning" %}
+Some payment methods may have additional processing fees.
+{% endhint %}
 {% endtab %}
 
-{ % tabs %}
 {% tab title="Website Purchase" %}
 
 ### Online Purchase Steps
@@ -80,15 +82,11 @@ Payment methods vary by reseller. Use the navigation buttons to find a reseller 
 4. Complete checkout
 5. Receive instant delivery
 
-{% hint style="warning" %}
-Some payment methods may have additional processing fees.
-{% endhint %}
 {% endtab %}
-{% endtabs %}
 
-{% tabtitle="Discord Purchase" %}
+{ % tabtitle="Discord Purchase" %}
 
-### 🤖 Discord Bot Purchase
+## 🤖 Discord Bot Purchase
 
 ### Step 1: Add Bot to Server
 

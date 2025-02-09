@@ -5,7 +5,7 @@ description: >-
   Welcome to the official BUYAWP.XYZ documentation. Get started with your setup,
   installation, and purchase.
 icon: books
-cover: .gitbook/assets/banner.png
+cover: .gitbook/assets/79260b3a4722446200d143f2d59b33e0.png
 coverY: 0
 layout: landing
 ---

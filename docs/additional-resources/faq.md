@@ -60,7 +60,7 @@ For detailed pricing and features, see our [Purchase Guide](../purchase/purchase
 2. Use `/claim` command
 3. Follow activation steps
 
-Need help? Check our [Purchase Support](../purchase/purchase-guide.md#purchase-support) section
+Need help? Check our [Purchase Support](../purchase/purchase-guide.md#-purchase-support) section
 {% endtab %}
 {% endtabs %}
 

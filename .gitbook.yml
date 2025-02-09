@@ -58,6 +58,9 @@ features:
     - text: "Getting Started"
       icon: rocket
       items:
+        - text: "Purchase Guide"
+          icon: credit-card
+          link: docs/purchase/purchase-guide.md
         - text: "Installation"
           icon: download
           link: docs/getting-started/installation.md
@@ -67,12 +70,6 @@ features:
         - text: "Security Setup"
           icon: shield-halved
           link: docs/getting-started/security-setup.md
-    - text: "Purchase"
-      icon: credit-card
-      items:
-        - text: "Purchase Guide"
-          icon: shopping-cart
-          link: docs/purchase/purchase-guide.md
     - text: "Additional Resources"
       icon: book
       items:

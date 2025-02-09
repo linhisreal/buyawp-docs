@@ -13,7 +13,7 @@ layout: landing
 # 👋 Welcome to AWPGG
 
 {% hint style="info" %}
-**Last Updated:** February 09, 2025 06:35:15 UTC\
+**Last Updated:** February 09, 2025 14:37:52 UTC\
 **Author:** [@linhisreal](https://github.com/linhisreal)
 {% endhint %}
 
@@ -22,25 +22,18 @@ layout: landing
 {% tabs %}
 {% tab title="Getting Started" %}
 
-### Essential Setup
+### Essential Setu
 
+* [👋 Welcome to AWPGG](README.md)
+* [💳 Purchase Guide](docs/purchase/purchase-guide.md)
 * [📋 Prerequisites](docs/getting-started/prerequisites.md)
 * [🛡️ Security Setup](docs/getting-started/security-setup.md)
-* [📦 Installation](docs/getting-started/installation.md)
+* [📥 Installation](docs/getting-started/installation.md)
 {% endtab %}
 
-{% tab title="Purchase" %}
+{% tab title="Resources" %}
 
-#### Buy AWP.GG
-
-* [💳 Discord Purchase](docs/purchase/purchase-guide.md#discord-bot-purchase)
-* [🤖 Bot Commands](docs/purchase/purchase-guide.md#step-2-use-purchase-command)
-* [🔄 Reseller Shop](docs/purchase/purchase-guide.md#step-3-select-reseller)
-{% endtab %}
-
-{% tab title="Support" %}
-
-#### Need Help?
+### Additional Help
 
 * [❓ FAQ](docs/additional-resources/faq.md)
 * [🔧 Troubleshooting](docs/additional-resources/troubleshooting.md)
@@ -68,17 +61,16 @@ Before proceeding with the installation, ensure your system meets these requirem
 ## 📚 Documentation Structure
 
 1. **Getting Started**
+   * [Welcome to AWPGG](README.md) - Introduction and overview
+   * [Purchase Guide](docs/purchase/purchase-guide.md) - How to buy and activate
    * [Prerequisites](docs/getting-started/prerequisites.md) - System requirements and initial setup
    * [Security Setup](docs/getting-started/security-setup.md) - Antivirus and Windows security configuration
-   * [Installation Guide](docs/getting-started/installation.md) - Step-by-step installation process
-2. **Purchase**
-   * [Discord Bot Purchase](docs/purchase/purchase-guide.md#discord-bot-purchase) - Buy through our Discord bot
-   * [Reseller Selection](docs/purchase/purchase-guide.md#step-3-select-reseller) - Choose verified resellers (@!)
-   * [License Activation](docs/purchase/purchase-guide.md#license-activation) - Activate your purchase
-3. **Additional Resources**
+   * [Installation](docs/getting-started/installation.md) - Step-by-step installation process
+
+2. **Additional Resources**
    * [FAQ](docs/additional-resources/faq.md) - Common questions and answers
    * [Troubleshooting](docs/additional-resources/troubleshooting.md) - Solutions to common issues
-   * [Change Log](docs/additional-resources/changelog.md) - Version history and updates
+   * [Changelog](docs/additional-resources/changelog.md) - Version history and updates
 
 ## Discord Communities
 

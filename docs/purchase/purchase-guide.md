@@ -51,6 +51,7 @@ author: linhisreal
 
 {% tabs %}
 {% tab title="Payment Methods" %}
+
 ### Reseller Payment Methods
 
 Each verified reseller (@!) supports various payment methods:
@@ -190,4 +191,13 @@ Need help with your purchase?
 
 {% hint style="success" %}
 Our support team and verified resellers (@!) are available 24/7 to assist with purchase-related issues!
+{% endhint %}
+
+{% hint style="info" %}
+Done purchasing? Follow these guides in order to install AWP!:
+
+1. [📋 Prerequisites](../getting-started/prerequisites.md)
+2. [🛡️ Security Setup](../getting-started/security-setup.md)
+3. [📥 Installation](../getting-started/installation.md)
+
 {% endhint %}

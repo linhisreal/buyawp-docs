@@ -4,6 +4,9 @@ structure:
   readme: README.md
   summary: SUMMARY.md
 
+assets:
+  images: images
+  
 redirects:
   docs/getting-started/security-setup: antivirus.md
   getting-started/prerequisites: docs/getting-started/prerequisites.md
@@ -12,3 +15,82 @@ redirects:
   additional-resources/faq: docs/additional-resources/faq.md
   additional-resources/troubleshooting: docs/additional-resources/troubleshooting.md
   additional-resources/changelog: docs/additional-resources/changelog.md
+  purchase: docs/purchase/purchase.md
+  purchase/guide: docs/purchase/guide.md
+
+variables:
+  version: 1.1.0
+  lastUpdated: "2025-02-09 12:50:37"
+  author: "Linh"
+  discordInvite: "discord.gg/awpgg"
+  supportServer: "discord.gg/buyawp"
+  rootPath: "D:\\Klin\\CodeStuff\\VsCode\\Others\\ltsc"
+
+plugins:
+  - mermaid
+  - tabs
+  - hints 
+  - alerts
+  - codetabs 
+  - accordion
+
+theme:
+  name: default
+  title: BUYAWP.XYZ Documentation
+  favicon: images/awp.png
+  logo: images/awp.png
+  colors:
+    theme: "#1A73E8"
+    dark: "#0D47A1"
+    light: "#BBDEFB"
+  darkMode: true
+
+links:
+  home: https://buyawp.gg
+  discord: https://discord.gg/awpgg
+  support: https://discord.gg/buyawp
+
+features:
+  tabs: true
+  search: true
+  darkMode: true
+  navigation:
+    - text: "Getting Started"
+      icon: rocket
+      items:
+        - text: "Installation"
+          icon: download
+          link: docs/getting-started/installation.md
+        - text: "Prerequisites"
+          icon: list-check
+          link: docs/getting-started/prerequisites.md
+        - text: "Security Setup"
+          icon: shield-halved
+          link: docs/getting-started/security-setup.md
+    - text: "Purchase"
+      icon: credit-card
+      items:
+        - text: "Purchase Guide"
+          icon: shopping-cart
+          link: docs/purchase/purchase-guide.md
+    - text: "Additional Resources"
+      icon: book
+      items:
+        - text: "FAQ"
+          icon: circle-question
+          link: docs/additional-resources/faq.md
+        - text: "Troubleshooting"
+          icon: wrench
+          link: docs/additional-resources/troubleshooting.md
+        - text: "Changelog"
+          icon: bookmark
+          link: docs/additional-resources/changelog.md
+
+ignoreFiles:
+- _book
+- node_modules
+- "*.temp"
+- "*.bak"
+- ".git"
+- ".gitbook/summary.json"
+- ".gitbook/api"

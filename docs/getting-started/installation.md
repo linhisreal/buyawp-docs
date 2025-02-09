@@ -11,7 +11,8 @@ icon: down-from-line
 
 {% tabs %}
 {% tab title="New Users" %}
-#### Registration Process
+
+### Registration Process
 
 ```mermaid
 sequenceDiagram
@@ -23,9 +24,11 @@ sequenceDiagram
     User->>Bot: Complete registration
     System->>User: Account created
 ```
+
 {% endtab %}
 
 {% tab title="Existing Users" %}
+
 #### License Claims
 
 * Use `/claim` to activate license
@@ -39,6 +42,7 @@ sequenceDiagram
 ### Download Steps
 
 {% hint style="warning" %}
+
 1. Execute `/download` command
 2. Wait for DM with download link
 3. Download within 5 minutes
@@ -50,6 +54,7 @@ sequenceDiagram
 
 {% tabs %}
 {% tab title="Pre-Install" %}
+
 * ✅ ROBLOX fully closed
 * ✅ Prerequisites installed
 * ✅ Antivirus disabled
@@ -57,6 +62,7 @@ sequenceDiagram
 {% endtab %}
 
 {% tab title="Installation" %}
+
 1. Run installer as admin
 2. Follow setup wizard
 3. Configure settings

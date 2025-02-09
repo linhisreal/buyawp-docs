@@ -28,12 +28,13 @@ AWP.GG is a powerful tool designed to enhance your gaming experience.
 **System Requirements**
 
 {% hint style="info" %}
+
 * Windows 10/11 (64-bit)
 * 15.7 MB required disk space (might changed in future)
 * Internet connection
 {% endhint %}
 
-**Installation Issues**
+### Installation Issues
 
 See our [Troubleshooting Guide](troubleshooting.md)
 {% endtab %}
@@ -45,9 +46,11 @@ See our [Troubleshooting Guide](troubleshooting.md)
 {% tab title="License Types" %}
 **Available Licenses**
 
-* Weekly Subscription
-* Monthly Subscription
+* Amateur (7 days)
+* Pro (30 days)
+* Legend (30 days)
 
+For detailed pricing and features, see our [Purchase Guide](../purchase/purchase-guide.md)
 {% endtab %}
 
 {% tab title="Activation" %}
@@ -56,6 +59,8 @@ See our [Troubleshooting Guide](troubleshooting.md)
 1. Join our [Discord](https://discord.gg/buyawp) or [Official Discord](https://discord.gg/awpgg)
 2. Use `/claim` command
 3. Follow activation steps
+
+Need help? Check our [Purchase Support](../purchase/purchase-guide.md#purchase-support) section
 {% endtab %}
 {% endtabs %}
 

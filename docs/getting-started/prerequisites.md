@@ -11,7 +11,8 @@ icon: award
 
 {% tabs %}
 {% tab title="Windows Requirements" %}
-#### Required Specifications
+
+### Required Specifications
 
 * Windows 10/11 64-bit
 * Administrative Account
@@ -27,6 +28,7 @@ icon: award
 {% endtab %}
 
 {% tab title="Account Requirements" %}
+
 ```mermaid
 graph TD
     A[Check Account] -->|Not Admin| B[Get Admin Rights]
@@ -35,7 +37,6 @@ graph TD
     C -->|Method 2| E[Create Admin Account]
     A -->|Is Admin| F[Continue Setup]
 ```
-
 
 {% endtab %}
 {% endtabs %}
@@ -46,13 +47,16 @@ graph TD
 
 {% tabs %}
 {% tab title="Download Links" %}
+
 | Version | Link                                                                      | Status   |
 | ------- | ------------------------------------------------------------------------- | -------- |
 | x64     | [Download VC\_Redist x64](https://aka.ms/vs/17/release/vc_redist.x64.exe) | Required |
 | x86     | [Download VC\_Redist x86](https://aka.ms/vs/17/release/vc_redist.x86.exe) | Required |
+
 {% endtab %}
 
 {% tab title="Installation Steps" %}
+
 1. Download both x64 and x86 versions
 2. Run each installer as administrator
 3. Follow the installation prompts

@@ -11,15 +11,17 @@ author: linhisreal
 
 {% tabs %}
 {% tab title="Proxy & Launch Issues" %}
+
 ### Error: "Failed to Launch Proxy"
 
 {% hint style="warning" %}
 This issue is commonly related to Windows Defender blocking necessary files.
 {% endhint %}
 
-#### Solution Steps:
+#### Solution Steps
 
 1. **Add Required Exclusions:**
+
    ```plaintext
    %localappdata%\Roblox\
    ```
@@ -40,13 +42,15 @@ This issue is commonly related to Windows Defender blocking necessary files.
 This occurs when Windows security prevents proper updates.
 {% endhint %}
 
-#### Required Exclusions:
+#### Required Exclusions
+
 ```plaintext
 %localappdata%\Roblox\
 AppData\Local\ui
 ```
 
-#### Resolution Steps:
+#### Resolution Steps
+
 1. Type `/guide` in ⁠commands channel
 2. Follow the guide instructions
 3. Add both directories as exclusions
@@ -54,9 +58,10 @@ AppData\Local\ui
 {% endtab %}
 
 {% tab title="Installation Issues" %}
+
 #### Installation Errors
 
-**Error: "Installation failed due to missing prerequisites"**
+##### Error: "Installation failed due to missing prerequisites"
 
 {% hint style="warning" %}
 **Follow these steps:**
@@ -66,7 +71,7 @@ AppData\Local\ui
 3. Run installer as administrator
 {% endhint %}
 
-**Error: "Access Denied During Installation"**
+##### Error: "Access Denied During Installation"
 
 {% hint style="info" %}
 **Quick Fix:**
@@ -78,9 +83,10 @@ AppData\Local\ui
 {% endtab %}
 
 {% tab title="License Issues" %}
+
 #### License Activation Problems
 
-**Error: "Invalid license key"**
+##### Error: "Invalid license key"
 
 {% hint style="danger" %}
 **Verification Steps:**
@@ -90,7 +96,7 @@ AppData\Local\ui
 3. Ensure key isn't already in use
 {% endhint %}
 
-**Error: "License Server Unavailable"**
+##### Error: "License Server Unavailable"
 
 {% hint style="info" %}
 **Resolution Steps:**
@@ -102,9 +108,10 @@ AppData\Local\ui
 {% endtab %}
 
 {% tab title="Software Issues" %}
+
 #### Software Crashes
 
-**Issue: "AWP.GG crashes on startup"**
+##### Issue: "AWP.GG crashes on startup"
 
 {% hint style="warning" %}
 **Follow these steps:**
@@ -114,7 +121,7 @@ AppData\Local\ui
 3. Install pending Windows updates
 {% endhint %}
 
-**Issue: "Performance Problems"**
+##### Issue: "Performance Problems"
 
 {% hint style="info" %}
 **Optimization Steps:**
@@ -130,7 +137,8 @@ AppData\Local\ui
 
 {% tabs %}
 {% tab title="ROBLOX Issues" %}
-#### ROBLOX Integration Problems
+
+### ROBLOX Integration Problems
 
 1. **Game Not Detected**
    * Close ROBLOX completely
@@ -144,6 +152,7 @@ AppData\Local\ui
 {% endtab %}
 
 {% tab title="Connection Issues" %}
+
 #### Connection Problems
 
 1. **Server Connection Lost**
@@ -162,16 +171,21 @@ AppData\Local\ui
 
 {% tabs %}
 {% tab title="File Locations" %}
+
 ### Important Directories
+
 ```plaintext
 Main Application: %localappdata%\ui
 ROBLOX Files: %localappdata%\Roblox\
 Temporary Files: %temp%
 ```
+
 {% endtab %}
 
 {% tab title="Commands" %}
+
 ### Useful Discord Commands
+
 * `/guide` - View complete setup guide
 * `/download` - Get latest version
 * `/claim` - Activate license
@@ -182,15 +196,18 @@ Temporary Files: %temp%
 
 {% tabs %}
 {% tab title="Discord Support" %}
-#### Discord Communities
+
+### Discord Communities
 
 | Server | Purpose | Link |
 |---------|---------|------|
 | Support Server | Direct assistance | [Join Support](https://discord.gg/buyawp) |
 | Official Server | Updates & news | [Join Official](https://discord.gg/awpgg) |
+
 {% endtab %}
 
 {% tab title="Additional Help" %}
+
 #### Other Resources
 
 * [📚 Documentation](../getting-started/installation.md)

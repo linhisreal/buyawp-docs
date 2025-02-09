@@ -67,12 +67,14 @@ Payment methods vary by reseller. Use the navigation buttons to find a reseller 
 {% endhint %}
 {% endtab %}
 
+{ % tabs %}
 {% tab title="Website Purchase" %}
 
 ### Online Purchase Steps
 
-1. Visit [buyawp.xyz](https://buyawp.xyz)
 ![Store](/images/website-help/help-1.png)
+
+1. Visit [buyawp.xyz](https://buyawp.xyz)
 2. Select your package
 3. Choose payment method
 4. Complete checkout
@@ -83,6 +85,8 @@ Some payment methods may have additional processing fees.
 {% endhint %}
 {% endtab %}
 {% endtabs %}
+
+{% tabtitle="Discord Purchase" %}
 
 ### 🤖 Discord Bot Purchase
 
@@ -114,6 +118,8 @@ Use the navigation buttons:
 * Look for resellers marked with @!
 
 {% endhint %}
+{% endtab %}
+{% endtabs %}
 
 ## 🔑 License Activation
 

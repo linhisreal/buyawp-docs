@@ -1,8 +1,8 @@
 # Table of contents
 
-## Getting Started
+## 🚀 Getting Started
 
-* [👋 Welcome](README.md)
+* [👋 Welcome to AWPGG](README.md)
 * [📋 Prerequisites](docs/getting-started/prerequisites.md)
 * [🛡️ Security Setup](docs/getting-started/security-setup.md)
 * [📥 Installation](docs/getting-started/installation.md)
@@ -11,7 +11,7 @@
 
 * [💳 Purchase Guide](docs/purchase/purchase-guide.md)
 
-## Additional Resources
+## 📚 Additional Resources
 
 * [❓ FAQ](docs/additional-resources/faq.md)
 * [🔧 Troubleshooting](docs/additional-resources/troubleshooting.md)

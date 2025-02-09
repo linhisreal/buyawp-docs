@@ -17,7 +17,7 @@ author: linhisreal
 | Package | Duration | Features | Price |
 |---------|----------|-----------|-------|
 | Amateur | 7 days | Basic Access | $6.99 |
-| Pro | 30 Days | Standard Access | $23.99 |
+| Pro | 30 Days | Premium Access | $23.99 |
 | Legend | 30 Days | Premium Access | $54.99 |
 
 {% hint style="info" %}

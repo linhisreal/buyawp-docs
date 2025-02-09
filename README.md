@@ -5,7 +5,7 @@ description: >-
   Welcome to the official BUYAWP.XYZ documentation. Get started with your setup,
   installation, and purchase.
 icon: waving hand
-cover: .gitbook/assets/79260b3a4722446200d143f2d59b33e0.png
+cover: .gitbook/assets/og-image.png
 coverY: 0
 layout: landing
 ---
@@ -21,7 +21,8 @@ layout: landing
 
 {% tabs %}
 {% tab title="Getting Started" %}
-#### Essential Setup
+
+### Essential Setup
 
 * [📋 Prerequisites](docs/getting-started/prerequisites.md)
 * [🛡️ Security Setup](docs/getting-started/security-setup.md)
@@ -29,6 +30,7 @@ layout: landing
 {% endtab %}
 
 {% tab title="Purchase" %}
+
 #### Buy AWP.GG
 
 * [💳 Discord Purchase](docs/purchase/purchase-guide.md#discord-bot-purchase)
@@ -37,6 +39,7 @@ layout: landing
 {% endtab %}
 
 {% tab title="Support" %}
+
 #### Need Help?
 
 * [❓ FAQ](docs/additional-resources/faq.md)

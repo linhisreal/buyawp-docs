@@ -7,7 +7,7 @@
 * [🛡️ Security Setup](docs/getting-started/security-setup.md)
 * [📥 Installation](docs/getting-started/installation.md)
 
-## Purchase
+## 👑 Purchase
 
 * [💳 Purchase Guide](docs/purchase/purchase-guide.md)
 

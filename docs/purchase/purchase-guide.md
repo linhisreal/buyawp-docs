@@ -7,37 +7,6 @@ author: linhisreal
 
 # 💳 Purchase Guide
 
-## 🤖 Discord Bot Purchase
-
-### Step 1: Add Bot to Server
-
-![Add Discord Bot](/images/bot-help/purchase-help1.png)
-
-{% hint style="info" %}
-Make sure you have the necessary permissions to add bots to your server.
-{% endhint %}
-
-### Step 2: Use Purchase Command
-
-![Using /buy Command](/images/bot-help/purchase-help2.png)
-
-{% hint style="warning" %}
-The `/buy` command must be used in the appropriate channel.
-{% endhint %}
-
-### Step 3: Select Reseller
-
-![Reseller Selection](/images/bot-help/purchase-help3.png)
-
-{% hint style="info" %}
-Use the navigation buttons:
-
-* ⬅️ Previous: View previous resellers
-* ➡️ Next: View more resellers
-* Look for resellers marked with @!
-
-{% endhint %}
-
 ## 📦 Available Packages
 
 {% tabs %}
@@ -103,6 +72,7 @@ Payment methods vary by reseller. Use the navigation buttons to find a reseller 
 ### Online Purchase Steps
 
 1. Visit [buyawp.xyz](https://buyawp.xyz)
+![Store](/images/website-help/help-1.png)
 2. Select your package
 3. Choose payment method
 4. Complete checkout
@@ -114,24 +84,78 @@ Some payment methods may have additional processing fees.
 {% endtab %}
 {% endtabs %}
 
-## 🔑 License Activation
+### 🤖 Discord Bot Purchase
 
-![License Activation Process](/images/website-help/help-1.png)
+### Step 1: Add Bot to Server
 
-{% tabs %}
-{% tab title="Discord Activation" %}
-
-### Discord Method
-
-1. Join [Support Server](https://discord.gg/buyawp) or [Official Discord](https://discord.gg/awpgg)
-2. Go to commands channel
-3. Use `/claim`
-4. Follow bot instructions
+![Add Discord Bot](/images/bot-help/purchase-help1.png)
 
 {% hint style="info" %}
-Need help with activation? Check these guides:
-![Activation Help](/images/website-help/help-2.png)
-After Login -> Click Go to store -> Scroll down until you found the "Products" section -> Click to the package you want to buy -> Complete transistion and enjoy!
+Make sure you have the necessary permissions to add bots to your server.
+{% endhint %}
+
+### Step 2: Use Purchase Command
+
+![Using /buy Command](/images/bot-help/purchase-help2.png)
+
+{% hint style="warning" %}
+The `/buy` command must be used in the appropriate channel.
+{% endhint %}
+
+### Step 3: Select Reseller
+
+![Reseller Selection](/images/bot-help/purchase-help3.png)
+
+{% hint style="info" %}
+Use the navigation buttons:
+
+* ⬅️ Previous: View previous resellers
+* ➡️ Next: View more resellers
+* Look for resellers marked with @!
+
+{% endhint %}
+
+## 🔑 License Activation
+
+{% tabs %}
+{% tab title="Online Purchase Activation" %}
+
+### Website Purchase Activation
+
+![Store Navigation](/images/website-help/help-2.png)
+
+1. Visit [buyawp.xyz](https://buyawp.xyz)
+2. Login to your account
+3. Click "Go to store"
+4. Scroll to "Products" section
+5. Select your desired package
+6. Complete transaction
+7. Copy your license key
+
+{% hint style="info" %}
+After successful purchase, you'll receive your license key instantly. Use this key with the `/claim` command in our Discord server.
+{% endhint %}
+{% endtab %}
+
+{% tab title="Discord Bot Purchase" %}
+
+### Discord Purchase Activation
+
+1. Join [Support Server](https://discord.gg/buyawp) or [Official Discord](https://discord.gg/awpgg)
+2. Purchase from verified reseller (@!)
+3. Receive license key via DM
+4. Go to commands channel
+5. Use `/claim` command
+6. Enter your license key
+7. Follow bot instructions
+
+{% hint style="warning" %}
+Make sure to:
+
+* Only purchase from verified resellers (@!)
+* Keep your license key safe
+* Don't share your key with others
+
 {% endhint %}
 {% endtab %}
 {% endtabs %}

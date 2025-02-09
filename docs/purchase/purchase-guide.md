@@ -51,7 +51,6 @@ author: linhisreal
 
 {% tabs %}
 {% tab title="Payment Methods" %}
-
 ### Reseller Payment Methods
 
 Each verified reseller (@!) supports various payment methods:
@@ -65,6 +64,7 @@ Each verified reseller (@!) supports various payment methods:
 {% hint style="info" %}
 Payment methods vary by reseller. Use the navigation buttons to find a reseller that accepts your preferred payment method.
 {% endhint %}
+
 {% hint style="warning" %}
 Some payment methods may have additional processing fees.
 {% endhint %}
@@ -81,14 +81,13 @@ Some payment methods may have additional processing fees.
 3. Choose payment method
 4. Complete checkout
 5. Receive instant delivery
-
 {% endtab %}
 
-{ % tabtitle="Discord Purchase" %}
+{% tab title="Discord Purchase" %}
 
-## 🤖 Discord Bot Purchase
+### Discord Bot Purchase Steps
 
-### Step 1: Add Bot to Server
+#### Step 1: Add Bot to Server
 
 ![Add Discord Bot](/images/bot-help/purchase-help1.png)
 
@@ -96,7 +95,7 @@ Some payment methods may have additional processing fees.
 Make sure you have the necessary permissions to add bots to your server.
 {% endhint %}
 
-### Step 2: Use Purchase Command
+#### Step 2: Use Purchase Command
 
 ![Using /buy Command](/images/bot-help/purchase-help2.png)
 
@@ -104,7 +103,7 @@ Make sure you have the necessary permissions to add bots to your server.
 The `/buy` command must be used in the appropriate channel.
 {% endhint %}
 
-### Step 3: Select Reseller
+#### Step 3: Select Reseller
 
 ![Reseller Selection](/images/bot-help/purchase-help3.png)
 
@@ -114,7 +113,6 @@ Use the navigation buttons:
 * ⬅️ Previous: View previous resellers
 * ➡️ Next: View more resellers
 * Look for resellers marked with @!
-
 {% endhint %}
 {% endtab %}
 {% endtabs %}

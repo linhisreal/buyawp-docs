@@ -48,6 +48,8 @@ layout: default
 * Cash App
 * Cryptocurrency (LTC)
 * Bank Transfer (Selected regions)
+* Robux
+* Apple Pay
 
 {% hint style="warning" %}
 Some payment methods may have additional processing fees.
@@ -113,7 +115,6 @@ Your license key will be delivered instantly after payment.
 
 ## 🔑 License Activation
 
-{% tabs %}
 {% tab title="Discord Activation" %}
 
 ### Activation Steps
@@ -134,22 +135,6 @@ Security Tips:
 * Keep transaction records
 {% endhint %}
 {% endtab %}
-
-{% tab title="Website Activation" %}
-
-### Website Activation Process
-
-1. Login to [buyawp.xyz](https://buyawp.xyz)
-2. Navigate to "Account"
-3. Enter license key
-4. Verify activation
-5. Start setup process
-
-{% hint style="info" %}
-Use your license key with `/claim` in Discord after website activation.
-{% endhint %}
-{% endtab %}
-{% endtabs %}
 
 ## 🆘 Support Options
 

@@ -118,7 +118,7 @@ Your license key will be delivered instantly after payment.
 {% tabs %}
 {% tab title="Discord Method" %}
 
-### Activation Steps
+### Activation Step 1
 
 1. Join our servers:
    * [Support Server](https://discord.gg/buyawp)
@@ -135,6 +135,21 @@ Security Tips:
 * Never share your license key
 * Keep transaction records
 
+{% endhint %}
+{% endtab %}
+
+{% tab title="Website Method" %}
+
+### Activation Step 2
+
+1. Visit [awp.gg/activate](https://awp.gg/activate)
+2. Log in to your account
+3. Enter your license key
+4. Click activate
+5. Follow on-screen instructions
+
+{% hint style="info" %}
+Make sure you're logged in with the correct account before activation.
 {% endhint %}
 {% endtab %}
 {% endtabs %}

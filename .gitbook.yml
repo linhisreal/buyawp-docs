@@ -24,7 +24,7 @@ variables:
   author: "Linh"
   discordInvite: "discord.gg/awpgg"
   supportServer: "discord.gg/buyawp"
-  rootPath: "D:\\Klin\\CodeStuff\\VsCode\\Others\\ltsc"
+  rootPath: "D:\\Klin\\CodeStuff\\VsCode\\Others\\awp-docs"
 
 plugins:
   - mermaid

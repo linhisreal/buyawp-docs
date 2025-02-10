@@ -1,10 +1,15 @@
 ---
-date: 2025-02-07T15:41:56.000Z
+date: 2025-02-10 16:06:19
 author: linhisreal
 description: Frequently Asked Questions about AWP.GG
+icon: question-mark
 ---
 
-# ❓ FAQ
+# FAQ
+
+{% hint style="info" %}
+**Last Updated:** {{ lastUpdated }}\
+**Author:** [@{{ author }}](https://github.com/{{ author }})
 
 ## ❗ General Questions
 

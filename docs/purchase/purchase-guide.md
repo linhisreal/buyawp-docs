@@ -120,9 +120,11 @@ Your license key will be delivered instantly after payment.
 
 ### Activation Step 1
 
+### Discord Activation Steps
+
 1. Join our servers:
-   * [Support Server](https://discord.gg/buyawp)
-   * [Official Discord](https://discord.gg/awpgg)
+    * [Support Server](https://discord.gg/buyawp)
+    * [Official Discord](https://discord.gg/awpgg)
 2. Go to commands channel
 3. Use `/claim` command
 4. Enter your license key
@@ -134,25 +136,7 @@ Security Tips:
 * Only buy from verified (@!) resellers
 * Never share your license key
 * Keep transaction records
-
 {% endhint %}
-{% endtab %}
-
-{% tab title="Website Method" %}
-
-### Activation Step 2
-
-1. Visit [awp.gg/activate](https://awp.gg/activate)
-2. Log in to your account
-3. Enter your license key
-4. Click activate
-5. Follow on-screen instructions
-
-{% hint style="info" %}
-Make sure you're logged in with the correct account before activation.
-{% endhint %}
-{% endtab %}
-{% endtabs %}
 
 ## 🆘 Support Options
 

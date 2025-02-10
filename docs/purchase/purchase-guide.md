@@ -135,7 +135,8 @@ Security Tips:
 * Never share your license key
 * Keep transaction records
 {% endhint %}
-{% tabend %}
+{% endtab %}
+{ % endtabs %}
 
 ## 🆘 Support Options
 

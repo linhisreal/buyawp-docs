@@ -1,5 +1,4 @@
 ---
-date: 2025-02-10 16:06:19
 author: linhisreal
 description: AWP.GG version history and updates
 icon: bookmark
@@ -7,26 +6,26 @@ icon: bookmark
 
 # Change Logs
 
+## 🔄 Update Logs
+
+{% hint style="warning" %}
+Update instructions for updating AWP.GG:
+
+1. Close the UI completely
+2. Reopen UI and wait for update
+3. Go to settings and click Remove AWP (if it still doesnt works then retry but this time after click REMOVE AWP then click the Fix Channel)
+4. Press rocket button to apply changes
+5. If issues persist:
+   * Reinstall Roblox
+   * Check Discord announcements
+   * Contact support
+{% endhint %}
 {% hint style="info" %}
 For latest updates and announcements:
 
 * Join our [Support Server](https://discord.gg/buyawp)
 * Follow [Official Discord](https://discord.gg/awpgg)
 
-{% endhint %}
-
-## 🔄 Update Instructions
-
-{% hint style="warning" %}
-When updating AWP.GG:
-
-1. Close the UI completely
-2. Reopen UI and wait for update
-3. Press rocket button to apply changes
-4. If issues persist:
-   * Reinstall Roblox
-   * Check Discord announcements
-   * Contact support
 {% endhint %}
 
 ## February 2025

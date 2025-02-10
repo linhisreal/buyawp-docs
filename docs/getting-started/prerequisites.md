@@ -1,7 +1,6 @@
 ---
 author: linhisreal
 description: Essential system requirements and preparation steps for AWP.GG installation
-icon: award
 ---
 
 # Prerequisites

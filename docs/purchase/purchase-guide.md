@@ -1,7 +1,6 @@
 ---
 description: Complete guide for purchasing and activating AWP.GG licenses
 layout: default
-icon: credit-card
 ---
 
 # Purchase Guide

@@ -115,13 +115,6 @@ Your license key will be delivered instantly after payment.
 
 ## 🔑 License Activation
 
-{% tabs %}
-{% tab title="Discord Method" %}
-
-### Activation Step 1
-
-### Discord Activation Steps
-
 1. Join our servers:
     * [Support Server](https://discord.gg/buyawp)
     * [Official Discord](https://discord.gg/awpgg)

@@ -115,8 +115,8 @@ Your license key will be delivered instantly after payment.
 
 ## 🔑 License Activation
 
-{ % tabs %}
-{ % tab title="Discord Method" %}
+{% tabs %}
+{% tab title="Discord Method" %}
 
 ### Activation Steps
 
@@ -134,9 +134,10 @@ Security Tips:
 * Only buy from verified (@!) resellers
 * Never share your license key
 * Keep transaction records
+
 {% endhint %}
 {% endtab %}
-{ % endtabs %}
+{% endtabs %}
 
 ## 🆘 Support Options
 

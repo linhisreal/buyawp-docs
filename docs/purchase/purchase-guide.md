@@ -115,6 +115,7 @@ Your license key will be delivered instantly after payment.
 
 ## 🔑 License Activation
 
+{% tabs % }
 {% tab title="Discord Activation" %}
 
 ### Activation Steps
@@ -135,6 +136,7 @@ Security Tips:
 * Keep transaction records
 {% endhint %}
 {% endtab %}
+{% endtabs % }
 
 ## 🆘 Support Options
 

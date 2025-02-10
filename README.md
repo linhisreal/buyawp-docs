@@ -21,7 +21,7 @@ layout: landing
 {% tabs %}
 {% tab title="Getting Started" %}
 
-### Essential Setu
+### Essential Setup
 
 * [👋 Welcome to AWPGG](README.md)
 * [💳 Purchase Guide](docs/purchase/purchase-guide.md)

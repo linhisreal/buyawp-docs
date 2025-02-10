@@ -1,16 +1,11 @@
 ---
-date: 2025-02-10 16:06:19
+date: 2025-02-07T14:43:44.000Z
 author: linhisreal
 description: Configure your system's security settings for AWP.GG
 icon: shield-halved
 ---
 
 # Security Setup
-
-{% hint style="info" %}
-**Last Updated:** {{ lastUpdated }}\
-**Author:** [@{{ author }}](https://github.com/{{ author }})
-{% endhint %}
 
 ## ⚠️ Security Notice
 

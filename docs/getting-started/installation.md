@@ -1,5 +1,4 @@
 ---
-date: 2025-02-10 16:06:19
 author: linhisreal
 description: Complete installation guide for AWP.GG
 icon: down-from-line

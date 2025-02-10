@@ -1,5 +1,4 @@
 ---
-date: 2025-02-10 16:06:19
 author: linhisreal
 description: >-
   Welcome to the official BUYAWP.XYZ documentation. Get started with your setup,
@@ -13,7 +12,7 @@ layout: landing
 # 👋 Welcome to AWPGG
 
 {% hint style="info" %}
-**Last Updated:** February 09, 2025 14:37:52 UTC\
+**Last Updated:** February 10, 2025 11:21:42 UTC\
 **Author:** [@linhisreal](https://github.com/linhisreal)
 {% endhint %}
 

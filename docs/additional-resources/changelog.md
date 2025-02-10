@@ -7,6 +7,28 @@ icon: bookmark
 
 # Change Logs
 
+{% hint style="info" %}
+For latest updates and announcements:
+
+* Join our [Support Server](https://discord.gg/buyawp)
+* Follow [Official Discord](https://discord.gg/awpgg)
+
+{% endhint %}
+
+## 🔄 Update Instructions
+
+{% hint style="warning" %}
+When updating AWP.GG:
+
+1. Close the UI completely
+2. Reopen UI and wait for update
+3. Press rocket button to apply changes
+4. If issues persist:
+   * Reinstall Roblox
+   * Check Discord announcements
+   * Contact support
+{% endhint %}
+
 ## February 2025
 
 ### February 8, 2025
@@ -324,25 +346,3 @@ Important announcements regarding Hyperion updates:
 
 {% endtab %}
 {% endtabs %}
-
-## 🔄 Update Instructions
-
-{% hint style="warning" %}
-When updating AWP.GG:
-
-1. Close the UI completely
-2. Reopen UI and wait for update
-3. Press rocket button to apply changes
-4. If issues persist:
-   * Reinstall Roblox
-   * Check Discord announcements
-   * Contact support
-{% endhint %}
-
-{% hint style="info" %}
-For latest updates and announcements:
-
-* Join our [Support Server](https://discord.gg/buyawp)
-* Follow [Official Discord](https://discord.gg/awpgg)
-
-{% endhint %}

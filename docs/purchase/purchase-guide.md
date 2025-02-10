@@ -115,6 +115,9 @@ Your license key will be delivered instantly after payment.
 
 ## 🔑 License Activation
 
+{ % tabs %}
+{ % tab title="Discord Method" %}
+
 ### Activation Steps
 
 1. Join our servers:
@@ -132,6 +135,7 @@ Security Tips:
 * Never share your license key
 * Keep transaction records
 {% endhint %}
+{% tabend %}
 
 ## 🆘 Support Options
 

@@ -12,7 +12,7 @@ layout: landing
 # 👋 Welcome to AWPGG
 
 {% hint style="info" %}
-**Last Updated:** February 10, 2025 11:21:42 UTC\
+**Last Updated:** February 10, 2025 11:51:46 UTC\
 **Author:** [@linhisreal](https://github.com/linhisreal)
 {% endhint %}
 

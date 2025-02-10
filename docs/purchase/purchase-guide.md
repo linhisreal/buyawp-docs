@@ -1,18 +1,25 @@
 ---
 description: Complete guide for purchasing and activating AWP.GG licenses
 layout: default
-date: 2025-02-09 06:17:44
-author: linhisreal
+icon: credit-card
 ---
 
-# 💳 Purchase Guide
+# Purchase Guide
 
-## 📦 Available Packages
+## 🛍️ Quick Start Guide
+
+1. Choose your package (Amateur/Pro/Legend)
+2. Select purchase method (Discord/Website)
+3. Complete payment
+4. Activate license
+5. Start installation
+
+## 📦 Package Options
 
 {% tabs %}
-{% tab title="License Types" %}
+{% tab title="Package Comparison" %}
 
-### Available Options
+### Available Packages
 
 | Package | Duration | Features | Price |
 |---------|----------|-----------|-------|
@@ -20,41 +27,22 @@ author: linhisreal
 | Pro | 30 Days | Premium Access | $23.99 |
 | Legend | 30 Days | Premium Access | $54.99 |
 
-{% hint style="info" %}
-
-1. Use `/buy` in our Discord
-2. Navigate through reseller options
-3. Select a verified reseller (@!)
-4. Choose your package
-5. Complete payment
-
-{% endhint %}
-{% endtab %}
-
-{% tab title="Feature Comparison" %}
-
 ### Package Features
 
 | Feature | Amateur | Pro | Legend |
-|---------|--------|---------|----------|
+|---------|---------|------|--------|
 | Free Hwid Resets | ✅ | ✅ | ✅ |
 | Live Channel Forcing | ✅ | ✅ | ✅ |
 | Premium Support | ✅ | ✅ | ✅ |
-| Bot Access - No throttle| ❌ (normal) | ✅ | ✅ |
+| Bot Access - No throttle| ❌ | ✅ | ✅ |
 | Hwid Seed Rotations | 3 | 15 | 15 |
 | Maximum instance count | 10 | 30 | 30 |
 
 {% endtab %}
-{% endtabs %}
 
-## 💰 Payment Methods
-
-{% tabs %}
 {% tab title="Payment Methods" %}
 
-### Reseller Payment Methods
-
-Each verified reseller (@!) supports various payment methods:
+### Available Payment Options
 
 * Credit/Debit Cards
 * PayPal
@@ -62,58 +50,64 @@ Each verified reseller (@!) supports various payment methods:
 * Cryptocurrency (LTC)
 * Bank Transfer (Selected regions)
 
-{% hint style="info" %}
-Payment methods vary by reseller. Use the navigation buttons to find a reseller that accepts your preferred payment method.
-{% endhint %}
-
 {% hint style="warning" %}
 Some payment methods may have additional processing fees.
+{% endhint %}
+{% endtab %}
+{% endtabs %}
+
+## 🛒 Purchase Methods
+
+{% tabs %}
+{% tab title="Discord Purchase (Recommended)" %}
+
+### Discord Bot Purchase Process
+
+#### 1. Add Bot & Server Setup
+
+![Add Discord Bot](/images/bot-help/purchase-help1.png)
+
+{% hint style="info" %}
+Ensure you have permissions to add bots to your server.
+{% endhint %}
+
+#### 2. Purchase Command
+
+![Using /buy Command](/images/bot-help/purchase-help2.png)
+
+#### 3. Select Reseller
+
+![Reseller Selection](/images/bot-help/purchase-help3.png)
+
+{% hint style="info" %}
+Navigation Tips:
+
+* ⬅️ Previous reseller
+* ➡️ Next reseller
+* Look for @! verified badge
+
 {% endhint %}
 {% endtab %}
 
 {% tab title="Website Purchase" %}
 
-### Online Purchase Steps
+### Website Purchase Process
+
+#### 1. Store Navigation
 
 ![Store](/images/website-help/help-1.png)
 
 1. Visit [buyawp.xyz](https://buyawp.xyz)
-2. Select your package
+2. Select package
 3. Choose payment method
 4. Complete checkout
-5. Receive instant delivery
-{% endtab %}
 
-{% tab title="Discord Purchase" %}
+#### 2. License Retrieval
 
-### Discord Bot Purchase Steps
-
-#### Step 1: Add Bot to Server
-
-![Add Discord Bot](/images/bot-help/purchase-help1.png)
+![Store Navigation](/images/website-help/help-2.png)
 
 {% hint style="info" %}
-Make sure you have the necessary permissions to add bots to your server.
-{% endhint %}
-
-#### Step 2: Use Purchase Command
-
-![Using /buy Command](/images/bot-help/purchase-help2.png)
-
-{% hint style="warning" %}
-The `/buy` command must be used in the appropriate channel.
-{% endhint %}
-
-#### Step 3: Select Reseller
-
-![Reseller Selection](/images/bot-help/purchase-help3.png)
-
-{% hint style="info" %}
-Use the navigation buttons:
-
-* ⬅️ Previous: View previous resellers
-* ➡️ Next: View more resellers
-* Look for resellers marked with @!
+Your license key will be delivered instantly after payment.
 {% endhint %}
 {% endtab %}
 {% endtabs %}
@@ -121,83 +115,86 @@ Use the navigation buttons:
 ## 🔑 License Activation
 
 {% tabs %}
-{% tab title="Online Purchase Activation" %}
+{% tab title="Discord Activation" %}
 
-### Website Purchase Activation
+### Activation Steps
 
-![Store Navigation](/images/website-help/help-2.png)
+1. Join our servers:
+   * [Support Server](https://discord.gg/buyawp)
+   * [Official Discord](https://discord.gg/awpgg)
+2. Go to commands channel
+3. Use `/claim` command
+4. Enter your license key
+5. Follow bot instructions
 
-1. Visit [buyawp.xyz](https://buyawp.xyz)
-2. Login to your account
-3. Click "Go to store"
-4. Scroll to "Products" section
-5. Select your desired package
-6. Complete transaction
-7. Copy your license key
+{% hint style="warning" %}
+Security Tips:
 
-{% hint style="info" %}
-After successful purchase, you'll receive your license key instantly. Use this key with the `/claim` command in our Discord server.
+* Only buy from verified (@!) resellers
+* Never share your license key
+* Keep transaction records
 {% endhint %}
 {% endtab %}
 
-{% tab title="Discord Bot Purchase" %}
+{% tab title="Website Activation" %}
 
-### Discord Purchase Activation
+### Website Activation Process
 
-1. Join [Support Server](https://discord.gg/buyawp) or [Official Discord](https://discord.gg/awpgg)
-2. Purchase from verified reseller (@!)
-3. Receive license key via DM
-4. Go to commands channel
-5. Use `/claim` command
-6. Enter your license key
-7. Follow bot instructions
+1. Login to [buyawp.xyz](https://buyawp.xyz)
+2. Navigate to "Account"
+3. Enter license key
+4. Verify activation
+5. Start setup process
 
-{% hint style="warning" %}
-Make sure to:
-
-* Only purchase from verified resellers (@!)
-* Keep your license key safe
-* Don't share your key with others
-
+{% hint style="info" %}
+Use your license key with `/claim` in Discord after website activation.
 {% endhint %}
 {% endtab %}
 {% endtabs %}
 
-## 🆘 Purchase Support
-
-Need help with your purchase?
+## 🆘 Support Options
 
 {% tabs %}
-{% tab title="Discord Support" %}
+{% tab title="Purchase Support" %}
 
-### Immediate Assistance
+### Need Help?
 
-* Contact your reseller (marked with @!)
-* Use navigation buttons to find your reseller
-* Check [FAQ](../additional-resources/faq.md)
-* Visit [Troubleshooting](../additional-resources/troubleshooting.md)
+1. **Discord Support:**
+   * Contact verified reseller (@!)
+   * Use support channels
+   * 24/7 assistance available
+
+2. **Documentation:**
+   * Check [FAQ](../additional-resources/faq.md)
+   * Visit [Troubleshooting](../additional-resources/troubleshooting.md)
 {% endtab %}
 
 {% tab title="Payment Issues" %}
 
-### Payment Problems
+### Payment Troubleshooting
 
-* Screenshot the reseller embed
-* Note the reseller's @ tag
-* Contact support with details
-* Allow 24h for response
+1. **Report Issue:**
+   * Screenshot reseller embed
+   * Note reseller's @ tag
+   * Join support server
+   * Open ticket
+
+2. **Response Time:**
+   * Regular issues: 24 hours
+   * Payment issues: Priority support
 {% endtab %}
 {% endtabs %}
 
-{% hint style="success" %}
-Our support team and verified resellers (@!) are available 24/7 to assist with purchase-related issues!
-{% endhint %}
+## 📚 Next Steps
 
-{% hint style="info" %}
-Done purchasing? Follow these guides in order to install AWP!:
+{% hint style="success" %}
+After successful purchase, follow these guides in order:
 
 1. [📋 Prerequisites](../getting-started/prerequisites.md)
 2. [🛡️ Security Setup](../getting-started/security-setup.md)
 3. [📥 Installation](../getting-started/installation.md)
+{% endhint %}
 
+{% hint style="info" %}
+Need additional help? Our support team and verified resellers (@!) are available 24/7!
 {% endhint %}

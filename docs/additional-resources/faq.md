@@ -1,10 +1,10 @@
 ---
-date: 2025-02-07T15:41:56.000Z
 author: linhisreal
 description: Frequently Asked Questions about AWP.GG
+icon: question-mark
 ---
 
-# ❓ FAQ
+# FAQ
 
 ## ❗ General Questions
 

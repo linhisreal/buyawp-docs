@@ -1,5 +1,5 @@
 ---
-date: 2025-02-07T14:43:44.000Z
+date: 2025-02-10 16:06:19
 author: linhisreal
 description: Configure your system's security settings for AWP.GG
 icon: shield-halved

@@ -1,11 +1,11 @@
 ---
 description: Troubleshooting common issues with AWP.GG
 layout: default
-date: 2025-02-08 03:07:12
 author: linhisreal
+icon: wrench
 ---
 
-# 🔧 Troubleshooting
+# Troubleshooting
 
 ## ❗ Common Issues
 

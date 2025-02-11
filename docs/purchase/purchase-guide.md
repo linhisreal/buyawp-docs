@@ -60,6 +60,28 @@ Some payment methods may have additional processing fees.
 ## 🛒 Purchase Methods
 
 {% tabs %}
+{% tab title="Website Purchase" %}
+
+### Website Purchase Process ( Recommended )
+
+#### 1. Store Navigation
+
+![Store](/images/website-help/help-1.png)
+
+1. Visit [buyawp.xyz](https://buyawp.xyz)
+2. Select package
+3. Choose payment method
+4. Complete checkout
+
+#### 2. License Retrieval
+
+![Store Navigation](/images/website-help/help-2.png)
+
+{% hint style="info" %}
+Your license key will be delivered instantly after payment.
+{% endhint %}
+{% endtab %}
+
 {% tab title="Discord Purchase (Recommended)" %}
 
 ### Discord Bot Purchase Process
@@ -87,28 +109,6 @@ Navigation Tips:
 * ➡️ Next reseller
 * Look for @! verified badge
 
-{% endhint %}
-{% endtab %}
-
-{% tab title="Website Purchase" %}
-
-### Website Purchase Process
-
-#### 1. Store Navigation
-
-![Store](/images/website-help/help-1.png)
-
-1. Visit [buyawp.xyz](https://buyawp.xyz)
-2. Select package
-3. Choose payment method
-4. Complete checkout
-
-#### 2. License Retrieval
-
-![Store Navigation](/images/website-help/help-2.png)
-
-{% hint style="info" %}
-Your license key will be delivered instantly after payment.
 {% endhint %}
 {% endtab %}
 {% endtabs %}

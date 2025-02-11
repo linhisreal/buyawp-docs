@@ -60,9 +60,9 @@ Some payment methods may have additional processing fees.
 ## 🛒 Purchase Methods
 
 {% tabs %}
-{% tab title="Website Purchase" %}
+{% tab title="Website Purchase (Recommended)" %}
 
-### Website Purchase Process ( Recommended )
+### Website Purchase Process
 
 #### 1. Store Navigation
 
@@ -82,7 +82,7 @@ Your license key will be delivered instantly after payment.
 {% endhint %}
 {% endtab %}
 
-{% tab title="Discord Purchase (Recommended)" %}
+{% tab title="Discord Purchase" %}
 
 ### Discord Bot Purchase Process
 
